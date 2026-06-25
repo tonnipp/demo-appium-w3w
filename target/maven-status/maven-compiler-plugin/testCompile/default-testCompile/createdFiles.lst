@@ -1,0 +1,4 @@
+data/TestData.class
+tests/EndToEndTest.class
+pages/MainPage.class
+pages/SearchPage.class

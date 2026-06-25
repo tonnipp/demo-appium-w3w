@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-25T15:31:46 ICT" name="Surefire suite" finished-at="2026-06-25T15:36:06 ICT" duration-ms="260015">
+    <groups>
+    </groups>
+    <test started-at="2026-06-25T15:31:46 ICT" name="Surefire test" finished-at="2026-06-25T15:36:06 ICT" duration-ms="260015">
+      <class name="tests.EndToEndTest">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:31:47 ICT" name="setupSuite" finished-at="2026-06-25T15:31:47 ICT" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:31:47 ICT" name="setUp" finished-at="2026-06-25T15:31:57 ICT" duration-ms="10780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldHandleInvalidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:31:58 ICT" name="shouldHandleInvalidLocation" description="Verify invalid searches are handled correctly" data-provider="invalidSearchData" finished-at="2026-06-25T15:32:00 ICT" duration-ms="2267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///gg345.g22g.gg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldHandleInvalidLocation -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:00 ICT" name="tearDown" finished-at="2026-06-25T15:32:00 ICT" duration-ms="438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldHandleInvalidLocation status=SUCCESS method=EndToEndTest.shouldHandleInvalidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:00 ICT" name="setUp" finished-at="2026-06-25T15:32:09 ICT" duration-ms="9003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldHandleInvalidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:09 ICT" name="shouldHandleInvalidLocation" description="Verify invalid searches are handled correctly" data-provider="invalidSearchData" finished-at="2026-06-25T15:32:13 ICT" duration-ms="3228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///viết chữ.âm nhạc.an nhàn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldHandleInvalidLocation -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:13 ICT" name="tearDown" finished-at="2026-06-25T15:32:13 ICT" duration-ms="395" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldHandleInvalidLocation status=SUCCESS method=EndToEndTest.shouldHandleInvalidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:13 ICT" name="setUp" finished-at="2026-06-25T15:32:23 ICT" duration-ms="9862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldHandleInvalidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:23 ICT" name="shouldHandleInvalidLocation" description="Verify invalid searches are handled correctly" data-provider="invalidSearchData" finished-at="2026-06-25T15:32:25 ICT" duration-ms="2109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ksaldfbwsdjhfbwef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldHandleInvalidLocation -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:25 ICT" name="tearDown" finished-at="2026-06-25T15:32:26 ICT" duration-ms="724" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldHandleInvalidLocation status=SUCCESS method=EndToEndTest.shouldHandleInvalidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:26 ICT" name="setUp" finished-at="2026-06-25T15:32:34 ICT" duration-ms="8501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:34 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:32:41 ICT" duration-ms="6676" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///gg345.g22g.gg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[///gg.gg.gg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:41 ICT" name="tearDown" finished-at="2026-06-25T15:32:42 ICT" duration-ms="740" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:42 ICT" name="setUp" finished-at="2026-06-25T15:32:51 ICT" duration-ms="9788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:51 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:32:57 ICT" duration-ms="5681" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///gg345.g22g.gg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[///become.outlooks.rising]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:57 ICT" name="tearDown" finished-at="2026-06-25T15:32:57 ICT" duration-ms="368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:32:57 ICT" name="setUp" finished-at="2026-06-25T15:33:07 ICT" duration-ms="9796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:07 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:33:13 ICT" duration-ms="5743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///gg345.g22g.gg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ho Chi Minh City]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:13 ICT" name="tearDown" finished-at="2026-06-25T15:33:14 ICT" duration-ms="657" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:14 ICT" name="setUp" finished-at="2026-06-25T15:33:22 ICT" duration-ms="8823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:22 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:33:29 ICT" duration-ms="6380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///viết chữ.âm nhạc.an nhàn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[///gg.gg.gg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:29 ICT" name="tearDown" finished-at="2026-06-25T15:33:29 ICT" duration-ms="397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:29 ICT" name="setUp" finished-at="2026-06-25T15:33:38 ICT" duration-ms="8714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:38 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:33:45 ICT" duration-ms="6734" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///viết chữ.âm nhạc.an nhàn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[///become.outlooks.rising]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:45 ICT" name="tearDown" finished-at="2026-06-25T15:33:45 ICT" duration-ms="347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:45 ICT" name="setUp" finished-at="2026-06-25T15:33:53 ICT" duration-ms="8362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:33:53 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:34:01 ICT" duration-ms="7401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///viết chữ.âm nhạc.an nhàn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ho Chi Minh City]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:01 ICT" name="tearDown" finished-at="2026-06-25T15:34:01 ICT" duration-ms="334" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:01 ICT" name="setUp" finished-at="2026-06-25T15:34:11 ICT" duration-ms="9819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:11 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:34:17 ICT" duration-ms="6220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ksaldfbwsdjhfbwef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[///gg.gg.gg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:17 ICT" name="tearDown" finished-at="2026-06-25T15:34:18 ICT" duration-ms="689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:18 ICT" name="setUp" finished-at="2026-06-25T15:34:28 ICT" duration-ms="10257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:28 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:34:34 ICT" duration-ms="5675" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ksaldfbwsdjhfbwef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[///become.outlooks.rising]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:34 ICT" name="tearDown" finished-at="2026-06-25T15:34:34 ICT" duration-ms="673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:34 ICT" name="setUp" finished-at="2026-06-25T15:34:44 ICT" duration-ms="9602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:44 ICT" name="shouldRecoverFromInvalidSearch" description="Verify user can recover from invalid search and continue searching" data-provider="recoverySearchData" finished-at="2026-06-25T15:34:50 ICT" duration-ms="5660" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ksaldfbwsdjhfbwef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ho Chi Minh City]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRecoverFromInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:50 ICT" name="tearDown" finished-at="2026-06-25T15:34:50 ICT" duration-ms="673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldRecoverFromInvalidSearch status=SUCCESS method=EndToEndTest.shouldRecoverFromInvalidSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:50 ICT" name="setUp" finished-at="2026-06-25T15:34:59 ICT" duration-ms="8675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldSearchMultipleLocationsSequentially(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:34:59 ICT" name="shouldSearchMultipleLocationsSequentially" data-provider="sequentialSearchData" finished-at="2026-06-25T15:35:11 ICT" duration-ms="11653" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ho Chi Minh City]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[///become.outlooks.rising]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[///gg.gg.gg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchMultipleLocationsSequentially -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:11 ICT" name="tearDown" finished-at="2026-06-25T15:35:11 ICT" duration-ms="421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldSearchMultipleLocationsSequentially status=SUCCESS method=EndToEndTest.shouldSearchMultipleLocationsSequentially(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:11 ICT" name="setUp" finished-at="2026-06-25T15:35:20 ICT" duration-ms="8651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldSearchValidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:20 ICT" name="shouldSearchValidLocation" description="Verify user can search valid locations" data-provider="validSearchData" finished-at="2026-06-25T15:35:24 ICT" duration-ms="4117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///gg.gg.gg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchValidLocation -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:24 ICT" name="tearDown" finished-at="2026-06-25T15:35:24 ICT" duration-ms="432" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldSearchValidLocation status=SUCCESS method=EndToEndTest.shouldSearchValidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:24 ICT" name="setUp" finished-at="2026-06-25T15:35:34 ICT" duration-ms="9656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldSearchValidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:34 ICT" name="shouldSearchValidLocation" description="Verify user can search valid locations" data-provider="validSearchData" finished-at="2026-06-25T15:35:37 ICT" duration-ms="2788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[///become.outlooks.rising]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchValidLocation -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:37 ICT" name="tearDown" finished-at="2026-06-25T15:35:37 ICT" duration-ms="728" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldSearchValidLocation status=SUCCESS method=EndToEndTest.shouldSearchValidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:37 ICT" name="setUp" finished-at="2026-06-25T15:35:46 ICT" duration-ms="8244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldSearchValidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:46 ICT" name="shouldSearchValidLocation" description="Verify user can search valid locations" data-provider="validSearchData" finished-at="2026-06-25T15:35:50 ICT" duration-ms="4084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ho Chi Minh City]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchValidLocation -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:50 ICT" name="tearDown" finished-at="2026-06-25T15:35:50 ICT" duration-ms="392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldSearchValidLocation status=SUCCESS method=EndToEndTest.shouldSearchValidLocation(java.lang.String)[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:50 ICT" name="setUp" finished-at="2026-06-25T15:35:59 ICT" duration-ms="9091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldShareCorrectSearchResult()[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:35:59 ICT" name="shouldShareCorrectSearchResult" description="Verify shared address matches selected search result" finished-at="2026-06-25T15:36:06 ICT" duration-ms="6309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldShareCorrectSearchResult -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.EndToEndTest@73e776b7]" started-at="2026-06-25T15:36:06 ICT" name="tearDown" finished-at="2026-06-25T15:36:06 ICT" duration-ms="712" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shouldShareCorrectSearchResult status=SUCCESS method=EndToEndTest.shouldShareCorrectSearchResult()[pri:0, instance:tests.EndToEndTest@73e776b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.EndToEndTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,276 @@
+[INFO ] 2026-06-25 14:10:56.969 [main] Log - Start execution: Surefire test
+[INFO ] 2026-06-25 14:10:57.257 [main] Log - Video recording started.
+[INFO ] 2026-06-25 14:10:57.351 [main] Log - Test execution started: 2026/06/25 14:10:57
+[INFO ] 2026-06-25 14:10:57.396 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:11:33.134 [main] Log - shouldHandleInvalidLocation started.
+[WARN ] 2026-06-25 14:11:33.228 [main] Log - shouldHandleInvalidLocation skipped.
+[INFO ] 2026-06-25 14:11:33.231 [main] Log - Finished test: shouldHandleInvalidLocation
+[WARN ] 2026-06-25 14:11:33.233 [main] Log - TEST SKIPPED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 14:11:33.233 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:11:33.234 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:12:08.198 [main] Log - shouldHandleInvalidLocation started.
+[WARN ] 2026-06-25 14:12:08.203 [main] Log - shouldHandleInvalidLocation skipped.
+[INFO ] 2026-06-25 14:12:08.204 [main] Log - Finished test: shouldHandleInvalidLocation
+[WARN ] 2026-06-25 14:12:08.204 [main] Log - TEST SKIPPED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 14:12:08.204 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:12:08.205 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:12:25.355 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:12:33.614 [main] Log - shouldHandleInvalidLocation started.
+[WARN ] 2026-06-25 14:12:33.625 [main] Log - shouldHandleInvalidLocation skipped.
+[INFO ] 2026-06-25 14:12:33.626 [main] Log - Finished test: shouldHandleInvalidLocation
+[WARN ] 2026-06-25 14:12:33.626 [main] Log - TEST SKIPPED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 14:12:34.074 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:12:34.080 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:12:50.648 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:12:57.052 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:12:57.062 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:12:57.062 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:12:57.063 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:12:57.475 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:12:57.476 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:13:14.349 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:13:19.951 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:13:19.961 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:13:19.962 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:13:19.962 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:13:20.352 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:13:20.355 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:13:36.335 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:13:41.043 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:13:41.050 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:13:41.050 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:13:41.050 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:13:41.448 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:13:41.449 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:13:58.279 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:14:04.322 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:14:04.329 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:14:04.329 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:14:04.329 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:14:04.740 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:14:04.742 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:14:24.164 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:14:29.601 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:14:29.608 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:14:29.608 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:14:29.608 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:14:30.080 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:14:30.081 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:14:50.628 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:14:53.614 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:14:53.632 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:14:53.633 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:14:53.633 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:14:54.041 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:14:54.043 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:15:07.369 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:15:10.398 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:15:10.405 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:15:10.405 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:15:10.406 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:15:10.835 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:15:10.837 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:15:22.126 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:15:25.746 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:15:25.754 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:15:25.755 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:15:25.755 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:15:26.121 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:15:26.122 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:15:41.976 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:15:47.036 [main] Log - shouldRecoverFromInvalidSearch started.
+[WARN ] 2026-06-25 14:15:47.051 [main] Log - shouldRecoverFromInvalidSearch skipped.
+[INFO ] 2026-06-25 14:15:47.051 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[WARN ] 2026-06-25 14:15:47.052 [main] Log - TEST SKIPPED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 14:15:47.526 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:15:47.529 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:16:00.089 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:16:06.135 [main] Log - shouldSearchMultipleLocationsSequentially started.
+[WARN ] 2026-06-25 14:16:06.142 [main] Log - shouldSearchMultipleLocationsSequentially skipped.
+[INFO ] 2026-06-25 14:16:06.143 [main] Log - Finished test: shouldSearchMultipleLocationsSequentially
+[WARN ] 2026-06-25 14:16:06.143 [main] Log - TEST SKIPPED: shouldSearchMultipleLocationsSequentially
+[INFO ] 2026-06-25 14:16:06.526 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:16:06.528 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:16:28.293 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:16:36.114 [main] Log - shouldSearchValidLocation started.
+[WARN ] 2026-06-25 14:16:36.122 [main] Log - shouldSearchValidLocation skipped.
+[INFO ] 2026-06-25 14:16:36.123 [main] Log - Finished test: shouldSearchValidLocation
+[WARN ] 2026-06-25 14:16:36.123 [main] Log - TEST SKIPPED: shouldSearchValidLocation
+[INFO ] 2026-06-25 14:16:36.557 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:16:36.558 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:16:56.666 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:17:02.588 [main] Log - shouldSearchValidLocation started.
+[WARN ] 2026-06-25 14:17:02.599 [main] Log - shouldSearchValidLocation skipped.
+[INFO ] 2026-06-25 14:17:02.600 [main] Log - Finished test: shouldSearchValidLocation
+[WARN ] 2026-06-25 14:17:02.600 [main] Log - TEST SKIPPED: shouldSearchValidLocation
+[INFO ] 2026-06-25 14:17:03.010 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:17:03.012 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:17:24.650 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:17:31.038 [main] Log - shouldSearchValidLocation started.
+[WARN ] 2026-06-25 14:17:31.055 [main] Log - shouldSearchValidLocation skipped.
+[INFO ] 2026-06-25 14:17:31.056 [main] Log - Finished test: shouldSearchValidLocation
+[WARN ] 2026-06-25 14:17:31.056 [main] Log - TEST SKIPPED: shouldSearchValidLocation
+[INFO ] 2026-06-25 14:17:31.425 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:17:31.427 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 14:17:43.514 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 14:17:48.221 [main] Log - shouldShareCorrectSearchResult started.
+[WARN ] 2026-06-25 14:17:48.226 [main] Log - shouldShareCorrectSearchResult skipped.
+[INFO ] 2026-06-25 14:17:48.227 [main] Log - Finished test: shouldShareCorrectSearchResult
+[WARN ] 2026-06-25 14:17:48.227 [main] Log - TEST SKIPPED: shouldShareCorrectSearchResult
+[INFO ] 2026-06-25 14:17:48.735 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 14:17:48.768 [main] Log - Finish execution: Surefire test
+[INFO ] 2026-06-25 14:17:49.289 [main] Log - Video recording stopped.
+[INFO ] 2026-06-25 15:31:46.798 [main] Log - Start execution: Surefire test
+[INFO ] 2026-06-25 15:31:47.050 [main] Log - Video recording started.
+[INFO ] 2026-06-25 15:31:47.134 [main] Log - Test execution started: 2026/06/25 15:31:47
+[INFO ] 2026-06-25 15:31:47.169 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:31:54.402 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:31:58.056 [main] Log - shouldHandleInvalidLocation started.
+[INFO ] 2026-06-25 15:31:58.165 [main] Log - Searching invalid query: ///gg345.g22g.gg
+[INFO ] 2026-06-25 15:32:00.322 [main] Log - Invalid search handled successfully: ///gg345.g22g.gg
+[INFO ] 2026-06-25 15:32:00.330 [main] Log - shouldHandleInvalidLocation passed.
+[INFO ] 2026-06-25 15:32:00.335 [main] Log - Finished test: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:00.339 [main] Log - TEST PASSED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:00.772 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:00.773 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:32:07.780 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:32:09.777 [main] Log - shouldHandleInvalidLocation started.
+[INFO ] 2026-06-25 15:32:09.783 [main] Log - Searching invalid query: ///viết chữ.âm nhạc.an nhàn
+[INFO ] 2026-06-25 15:32:13.005 [main] Log - Invalid search handled successfully: ///viết chữ.âm nhạc.an nhàn
+[INFO ] 2026-06-25 15:32:13.006 [main] Log - shouldHandleInvalidLocation passed.
+[INFO ] 2026-06-25 15:32:13.007 [main] Log - Finished test: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:13.007 [main] Log - TEST PASSED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:13.402 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:13.403 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:32:19.982 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:32:23.266 [main] Log - shouldHandleInvalidLocation started.
+[INFO ] 2026-06-25 15:32:23.273 [main] Log - Searching invalid query: ksaldfbwsdjhfbwef
+[INFO ] 2026-06-25 15:32:25.375 [main] Log - Invalid search handled successfully: ksaldfbwsdjhfbwef
+[INFO ] 2026-06-25 15:32:25.376 [main] Log - shouldHandleInvalidLocation passed.
+[INFO ] 2026-06-25 15:32:25.377 [main] Log - Finished test: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:25.377 [main] Log - TEST PASSED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:26.101 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:26.106 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:32:32.664 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:32:34.607 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:32:34.613 [main] Log - Recovery flow [///gg345.g22g.gg] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:32:41.283 [main] Log - Recovery successful [///gg345.g22g.gg] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:32:41.284 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:32:41.285 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:32:41.285 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:32:42.025 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:42.026 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:32:48.552 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:32:51.815 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:32:51.820 [main] Log - Recovery flow [///gg345.g22g.gg] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:32:57.496 [main] Log - Recovery successful [///gg345.g22g.gg] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:32:57.497 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:32:57.497 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:32:57.497 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:32:57.865 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:57.866 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:33:04.274 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:33:07.663 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:33:07.667 [main] Log - Recovery flow [///gg345.g22g.gg] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:33:13.406 [main] Log - Recovery successful [///gg345.g22g.gg] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:33:13.407 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:33:13.407 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:13.408 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:14.063 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:33:14.065 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:33:20.421 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:33:22.887 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:33:22.892 [main] Log - Recovery flow [///viết chữ.âm nhạc.an nhàn] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:33:29.266 [main] Log - Recovery successful [///viết chữ.âm nhạc.an nhàn] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:33:29.267 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:33:29.268 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:29.268 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:29.664 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:33:29.666 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:33:36.319 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:33:38.381 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:33:38.386 [main] Log - Recovery flow [///viết chữ.âm nhạc.an nhàn] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:33:45.114 [main] Log - Recovery successful [///viết chữ.âm nhạc.an nhàn] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:33:45.116 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:33:45.117 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:45.117 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:45.463 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:33:45.464 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:33:51.767 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:33:53.827 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:33:53.831 [main] Log - Recovery flow [///viết chữ.âm nhạc.an nhàn] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:34:01.227 [main] Log - Recovery successful [///viết chữ.âm nhạc.an nhàn] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:34:01.229 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:34:01.230 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:01.230 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:01.563 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:34:01.564 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:34:07.995 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:34:11.384 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:34:11.392 [main] Log - Recovery flow [ksaldfbwsdjhfbwef] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:34:17.604 [main] Log - Recovery successful [ksaldfbwsdjhfbwef] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:34:17.605 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:34:17.605 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:17.605 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:18.293 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:34:18.295 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:34:24.837 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:34:28.551 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:34:28.556 [main] Log - Recovery flow [ksaldfbwsdjhfbwef] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:34:34.226 [main] Log - Recovery successful [ksaldfbwsdjhfbwef] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:34:34.227 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:34:34.228 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:34.228 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:34.900 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:34:34.901 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:34:41.289 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:34:44.504 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:34:44.508 [main] Log - Recovery flow [ksaldfbwsdjhfbwef] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:34:50.163 [main] Log - Recovery successful [ksaldfbwsdjhfbwef] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:34:50.164 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:34:50.165 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:50.165 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:50.838 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:34:50.840 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:34:57.544 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:34:59.516 [main] Log - shouldSearchMultipleLocationsSequentially started.
+[INFO ] 2026-06-25 15:35:11.169 [main] Log - shouldSearchMultipleLocationsSequentially passed.
+[INFO ] 2026-06-25 15:35:11.171 [main] Log - Finished test: shouldSearchMultipleLocationsSequentially
+[INFO ] 2026-06-25 15:35:11.171 [main] Log - TEST PASSED: shouldSearchMultipleLocationsSequentially
+[INFO ] 2026-06-25 15:35:11.591 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:35:11.593 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:35:18.019 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:35:20.244 [main] Log - shouldSearchValidLocation started.
+[INFO ] 2026-06-25 15:35:20.250 [main] Log - Searching valid query: ///gg.gg.gg
+[INFO ] 2026-06-25 15:35:24.361 [main] Log - Search successful: ///gg.gg.gg
+[INFO ] 2026-06-25 15:35:24.362 [main] Log - shouldSearchValidLocation passed.
+[INFO ] 2026-06-25 15:35:24.362 [main] Log - Finished test: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:24.363 [main] Log - TEST PASSED: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:24.794 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:35:24.795 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:35:31.138 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:35:34.451 [main] Log - shouldSearchValidLocation started.
+[INFO ] 2026-06-25 15:35:34.456 [main] Log - Searching valid query: ///become.outlooks.rising
+[INFO ] 2026-06-25 15:35:37.239 [main] Log - Search successful: ///become.outlooks.rising
+[INFO ] 2026-06-25 15:35:37.240 [main] Log - shouldSearchValidLocation passed.
+[INFO ] 2026-06-25 15:35:37.241 [main] Log - Finished test: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:37.241 [main] Log - TEST PASSED: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:37.968 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:35:37.970 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:35:44.342 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:35:46.214 [main] Log - shouldSearchValidLocation started.
+[INFO ] 2026-06-25 15:35:46.219 [main] Log - Searching valid query: Ho Chi Minh City
+[INFO ] 2026-06-25 15:35:50.297 [main] Log - Search successful: Ho Chi Minh City
+[INFO ] 2026-06-25 15:35:50.298 [main] Log - shouldSearchValidLocation passed.
+[INFO ] 2026-06-25 15:35:50.299 [main] Log - Finished test: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:50.299 [main] Log - TEST PASSED: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:50.691 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:35:50.692 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:35:57.210 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:35:59.783 [main] Log - shouldShareCorrectSearchResult started.
+[INFO ] 2026-06-25 15:36:06.093 [main] Log - shouldShareCorrectSearchResult passed.
+[INFO ] 2026-06-25 15:36:06.095 [main] Log - Finished test: shouldShareCorrectSearchResult
+[INFO ] 2026-06-25 15:36:06.095 [main] Log - TEST PASSED: shouldShareCorrectSearchResult
+[INFO ] 2026-06-25 15:36:06.806 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:36:06.821 [main] Log - Finish execution: Surefire test
+[INFO ] 2026-06-25 15:36:07.175 [main] Log - Video recording stopped.

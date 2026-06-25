@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="261.237" tests="17" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+    <property name="java.class.path" value="/Users/vutony/Desktop/POMAppium/target/test-classes:/Users/vutony/Desktop/POMAppium/target/classes:/Users/vutony/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.25.3/log4j-slf4j-impl-2.25.3.jar:/Users/vutony/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/vutony/.m2/repository/org/apache/logging/log4j/log4j-1.2-api/2.25.3/log4j-1.2-api-2.25.3.jar:/Users/vutony/.m2/repository/org/apache/logging/log4j/log4j-core/2.25.3/log4j-core-2.25.3.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-java/4.45.0/selenium-java-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.45.0/selenium-chrome-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.45.0/selenium-chromium-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-devtools-latest/4.45.0/selenium-devtools-latest-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v147/4.45.0/selenium-devtools-v147-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v148/4.45.0/selenium-devtools-v148-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v149/4.45.0/selenium-devtools-v149-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.45.0/selenium-edge-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.45.0/selenium-firefox-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.45.0/selenium-ie-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.45.0/selenium-safari-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-api/4.45.0/selenium-api-4.45.0.jar:/Users/vutony/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-support/4.45.0/selenium-support-4.45.0.jar:/Users/vutony/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/vutony/.m2/repository/net/bytebuddy/byte-buddy/1.18.10/byte-buddy-1.18.10.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-json/4.45.0/selenium-json-4.45.0.jar:/Users/vutony/.m2/repository/org/apache/logging/log4j/log4j-api/2.25.3/log4j-api-2.25.3.jar:/Users/vutony/.m2/repository/io/github/bonigarcia/webdrivermanager/5.5.3/webdrivermanager-5.5.3.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java/3.3.3/docker-java-3.3.3.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java-core/3.3.3/docker-java-core-3.3.3.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java-api/3.3.3/docker-java-api-3.3.3.jar:/Users/vutony/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar:/Users/vutony/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar:/Users/vutony/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar:/Users/vutony/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.75/bcpkix-jdk18on-1.75.jar:/Users/vutony/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.75/bcprov-jdk18on-1.75.jar:/Users/vutony/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.75/bcutil-jdk18on-1.75.jar:/Users/vutony/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.3.3/docker-java-transport-httpclient5-3.3.3.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java-transport/3.3.3/docker-java-transport-3.3.3.jar:/Users/vutony/.m2/repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar:/Users/vutony/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/vutony/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.2.1/httpclient5-5.2.1.jar:/Users/vutony/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.2/httpcore5-5.2.jar:/Users/vutony/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.2/httpcore5-h2-5.2.jar:/Users/vutony/.m2/repository/org/testng/testng/7.12.0/testng-7.12.0.jar:/Users/vutony/.m2/repository/org/jcommander/jcommander/1.83/jcommander-1.83.jar:/Users/vutony/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/vutony/.m2/repository/org/apache/poi/poi/5.2.3/poi-5.2.3.jar:/Users/vutony/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/vutony/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/vutony/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/vutony/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/vutony/.m2/repository/org/apache/poi/poi-ooxml/5.4.0/poi-ooxml-5.4.0.jar:/Users/vutony/.m2/repository/org/apache/poi/poi-ooxml-lite/5.4.0/poi-ooxml-lite-5.4.0.jar:/Users/vutony/.m2/repository/org/apache/xmlbeans/xmlbeans/5.3.0/xmlbeans-5.3.0.jar:/Users/vutony/.m2/repository/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/Users/vutony/.m2/repository/com/github/virtuald/curvesapi/1.08/curvesapi-1.08.jar:/Users/vutony/.m2/repository/io/github/mfulton26/ctrl4testng/ctrl4testng/1.1/ctrl4testng-1.1.jar:/Users/vutony/.m2/repository/com/github/stephenc/monte/monte-screen-recorder/0.7.7.0/monte-screen-recorder-0.7.7.0.jar:/Users/vutony/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/Users/vutony/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/vutony/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/vutony/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/vutony/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar:/Users/vutony/.m2/repository/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar:/Users/vutony/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/vutony/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-testng/2.24.0/allure-testng-2.24.0.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-java-commons/2.24.0/allure-java-commons-2.24.0.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-model/2.24.0/allure-model-2.24.0.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-test-filter/2.24.0/allure-test-filter-2.24.0.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-attachments/2.24.0/allure-attachments-2.24.0.jar:/Users/vutony/.m2/repository/org/aspectj/aspectjweaver/1.9.25.1/aspectjweaver-1.9.25.1.jar:/Users/vutony/.m2/repository/io/appium/java-client/10.1.1/java-client-10.1.1.jar:/Users/vutony/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/Users/vutony/.m2/repository/commons-io/commons-io/2.14.0/commons-io-2.14.0.jar:/Users/vutony/.m2/repository/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar:/Users/vutony/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/vutony/.m2/repository/org/json/json/20231013/json-20231013.jar:/Users/vutony/.m2/repository/com/sun/xml/bind/jaxb-impl/4.0.3/jaxb-impl-4.0.3.jar:/Users/vutony/.m2/repository/com/sun/xml/bind/jaxb-core/4.0.3/jaxb-core-4.0.3.jar:/Users/vutony/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar:/Users/vutony/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar:/Users/vutony/.m2/repository/org/eclipse/angus/angus-activation/2.0.1/angus-activation-2.0.1.jar:/Users/vutony/.m2/repository/org/freemarker/freemarker/2.3.32/freemarker-2.3.32.jar:/Users/vutony/.m2/repository/io/reactivex/rxjava3/rxjava/3.1.7/rxjava-3.1.7.jar:/Users/vutony/.m2/repository/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar:/Users/vutony/.m2/repository/org/jetbrains/annotations/26.1.0/annotations-26.1.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.45.0/selenium-remote-driver-4.45.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-api/1.63.0/opentelemetry-api-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-context/1.63.0/opentelemetry-context-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-common/1.63.0/opentelemetry-common-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.63.0/opentelemetry-exporter-logging-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.63.0/opentelemetry-sdk-common-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.63.0/opentelemetry-sdk-extension-autoconfigure-spi-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.63.0/opentelemetry-sdk-extension-autoconfigure-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.63.0/opentelemetry-sdk-trace-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.63.0/opentelemetry-sdk-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.63.0/opentelemetry-sdk-metrics-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.63.0/opentelemetry-sdk-logs-1.63.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-http/4.45.0/selenium-http-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.45.0/selenium-manager-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-os/4.45.0/selenium-os-4.45.0.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="user.timezone" value="Asia/Ho_Chi_Minh"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk@21/21.0.11/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/vutony/Desktop/POMAppium/target/surefire/surefirebooter-20260625153145555_3.jar /Users/vutony/Desktop/POMAppium/target/surefire 2026-06-25T15-31-45_510-jvmRun1 surefire-20260625153145555_1tmp surefire_0-20260625153145555_2tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/vutony/Desktop/POMAppium/target/test-classes:/Users/vutony/Desktop/POMAppium/target/classes:/Users/vutony/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.25.3/log4j-slf4j-impl-2.25.3.jar:/Users/vutony/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/vutony/.m2/repository/org/apache/logging/log4j/log4j-1.2-api/2.25.3/log4j-1.2-api-2.25.3.jar:/Users/vutony/.m2/repository/org/apache/logging/log4j/log4j-core/2.25.3/log4j-core-2.25.3.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-java/4.45.0/selenium-java-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.45.0/selenium-chrome-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.45.0/selenium-chromium-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-devtools-latest/4.45.0/selenium-devtools-latest-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v147/4.45.0/selenium-devtools-v147-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v148/4.45.0/selenium-devtools-v148-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v149/4.45.0/selenium-devtools-v149-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.45.0/selenium-edge-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.45.0/selenium-firefox-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.45.0/selenium-ie-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.45.0/selenium-safari-driver-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-api/4.45.0/selenium-api-4.45.0.jar:/Users/vutony/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-support/4.45.0/selenium-support-4.45.0.jar:/Users/vutony/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/vutony/.m2/repository/net/bytebuddy/byte-buddy/1.18.10/byte-buddy-1.18.10.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-json/4.45.0/selenium-json-4.45.0.jar:/Users/vutony/.m2/repository/org/apache/logging/log4j/log4j-api/2.25.3/log4j-api-2.25.3.jar:/Users/vutony/.m2/repository/io/github/bonigarcia/webdrivermanager/5.5.3/webdrivermanager-5.5.3.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java/3.3.3/docker-java-3.3.3.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java-core/3.3.3/docker-java-core-3.3.3.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java-api/3.3.3/docker-java-api-3.3.3.jar:/Users/vutony/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar:/Users/vutony/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar:/Users/vutony/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar:/Users/vutony/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.75/bcpkix-jdk18on-1.75.jar:/Users/vutony/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.75/bcprov-jdk18on-1.75.jar:/Users/vutony/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.75/bcutil-jdk18on-1.75.jar:/Users/vutony/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.3.3/docker-java-transport-httpclient5-3.3.3.jar:/Users/vutony/.m2/repository/com/github/docker-java/docker-java-transport/3.3.3/docker-java-transport-3.3.3.jar:/Users/vutony/.m2/repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar:/Users/vutony/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/vutony/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.2.1/httpclient5-5.2.1.jar:/Users/vutony/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.2/httpcore5-5.2.jar:/Users/vutony/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.2/httpcore5-h2-5.2.jar:/Users/vutony/.m2/repository/org/testng/testng/7.12.0/testng-7.12.0.jar:/Users/vutony/.m2/repository/org/jcommander/jcommander/1.83/jcommander-1.83.jar:/Users/vutony/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/vutony/.m2/repository/org/apache/poi/poi/5.2.3/poi-5.2.3.jar:/Users/vutony/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/vutony/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/vutony/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/vutony/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/vutony/.m2/repository/org/apache/poi/poi-ooxml/5.4.0/poi-ooxml-5.4.0.jar:/Users/vutony/.m2/repository/org/apache/poi/poi-ooxml-lite/5.4.0/poi-ooxml-lite-5.4.0.jar:/Users/vutony/.m2/repository/org/apache/xmlbeans/xmlbeans/5.3.0/xmlbeans-5.3.0.jar:/Users/vutony/.m2/repository/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/Users/vutony/.m2/repository/com/github/virtuald/curvesapi/1.08/curvesapi-1.08.jar:/Users/vutony/.m2/repository/io/github/mfulton26/ctrl4testng/ctrl4testng/1.1/ctrl4testng-1.1.jar:/Users/vutony/.m2/repository/com/github/stephenc/monte/monte-screen-recorder/0.7.7.0/monte-screen-recorder-0.7.7.0.jar:/Users/vutony/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/Users/vutony/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/vutony/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/vutony/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/vutony/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar:/Users/vutony/.m2/repository/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar:/Users/vutony/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/vutony/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-testng/2.24.0/allure-testng-2.24.0.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-java-commons/2.24.0/allure-java-commons-2.24.0.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-model/2.24.0/allure-model-2.24.0.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-test-filter/2.24.0/allure-test-filter-2.24.0.jar:/Users/vutony/.m2/repository/io/qameta/allure/allure-attachments/2.24.0/allure-attachments-2.24.0.jar:/Users/vutony/.m2/repository/org/aspectj/aspectjweaver/1.9.25.1/aspectjweaver-1.9.25.1.jar:/Users/vutony/.m2/repository/io/appium/java-client/10.1.1/java-client-10.1.1.jar:/Users/vutony/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/Users/vutony/.m2/repository/commons-io/commons-io/2.14.0/commons-io-2.14.0.jar:/Users/vutony/.m2/repository/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar:/Users/vutony/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/vutony/.m2/repository/org/json/json/20231013/json-20231013.jar:/Users/vutony/.m2/repository/com/sun/xml/bind/jaxb-impl/4.0.3/jaxb-impl-4.0.3.jar:/Users/vutony/.m2/repository/com/sun/xml/bind/jaxb-core/4.0.3/jaxb-core-4.0.3.jar:/Users/vutony/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar:/Users/vutony/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar:/Users/vutony/.m2/repository/org/eclipse/angus/angus-activation/2.0.1/angus-activation-2.0.1.jar:/Users/vutony/.m2/repository/org/freemarker/freemarker/2.3.32/freemarker-2.3.32.jar:/Users/vutony/.m2/repository/io/reactivex/rxjava3/rxjava/3.1.7/rxjava-3.1.7.jar:/Users/vutony/.m2/repository/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar:/Users/vutony/.m2/repository/org/jetbrains/annotations/26.1.0/annotations-26.1.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.45.0/selenium-remote-driver-4.45.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-api/1.63.0/opentelemetry-api-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-context/1.63.0/opentelemetry-context-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-common/1.63.0/opentelemetry-common-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.63.0/opentelemetry-exporter-logging-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.63.0/opentelemetry-sdk-common-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.63.0/opentelemetry-sdk-extension-autoconfigure-spi-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.63.0/opentelemetry-sdk-extension-autoconfigure-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.63.0/opentelemetry-sdk-trace-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.63.0/opentelemetry-sdk-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.63.0/opentelemetry-sdk-metrics-1.63.0.jar:/Users/vutony/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.63.0/opentelemetry-sdk-logs-1.63.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-http/4.45.0/selenium-http-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.45.0/selenium-manager-4.45.0.jar:/Users/vutony/.m2/repository/org/seleniumhq/selenium/selenium-os/4.45.0/selenium-os-4.45.0.jar:"/>
+    <property name="allure.results.directory" value="target/allure-results"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/vutony"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-04-21"/>
+    <property name="java.home" value="/opt/homebrew/Cellar/openjdk@21/21.0.11/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/vutony/Desktop/POMAppium"/>
+    <property name="java.vm.compressedOopsMode" value="Non-zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="apple.awt.application.name" value="ForkedBooter"/>
+    <property name="surefire.real.class.path" value="/Users/vutony/Desktop/POMAppium/target/surefire/surefirebooter-20260625153145555_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="21.0.11"/>
+    <property name="user.name" value="vutony"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="26.5.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/vutony/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/hl/6_vl09lx2nz6h9hpv66bpc700000gn/T/"/>
+    <property name="java.version" value="21.0.11"/>
+    <property name="user.dir" value="/Users/vutony/Desktop/POMAppium"/>
+    <property name="os.arch" value="aarch64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/vutony/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="21.0.11"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="shouldHandleInvalidLocation[///gg345.g22g.gg](1)" classname="tests.EndToEndTest" time="2.184">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:31:46.798 [main] Log - Start execution: Surefire test
+[INFO ] 2026-06-25 15:31:47.050 [main] Log - Video recording started.
+[INFO ] 2026-06-25 15:31:47.134 [main] Log - Test execution started: 2026/06/25 15:31:47
+[INFO ] 2026-06-25 15:31:47.169 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:31:54.402 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:31:58.056 [main] Log - shouldHandleInvalidLocation started.
+[INFO ] 2026-06-25 15:31:58.165 [main] Log - Searching invalid query: ///gg345.g22g.gg
+[INFO ] 2026-06-25 15:32:00.322 [main] Log - Invalid search handled successfully: ///gg345.g22g.gg
+]]></system-out>
+  </testcase>
+  <testcase name="shouldHandleInvalidLocation[///viết chữ.âm nhạc.an nhàn](2)" classname="tests.EndToEndTest" time="3.229">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:32:00.330 [main] Log - shouldHandleInvalidLocation passed.
+[INFO ] 2026-06-25 15:32:00.335 [main] Log - Finished test: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:00.339 [main] Log - TEST PASSED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:00.772 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:00.773 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:32:07.780 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:32:09.777 [main] Log - shouldHandleInvalidLocation started.
+[INFO ] 2026-06-25 15:32:09.783 [main] Log - Searching invalid query: ///viết chữ.âm nhạc.an nhàn
+[INFO ] 2026-06-25 15:32:13.005 [main] Log - Invalid search handled successfully: ///viết chữ.âm nhạc.an nhàn
+]]></system-out>
+  </testcase>
+  <testcase name="shouldHandleInvalidLocation[ksaldfbwsdjhfbwef](3)" classname="tests.EndToEndTest" time="2.109">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:32:13.006 [main] Log - shouldHandleInvalidLocation passed.
+[INFO ] 2026-06-25 15:32:13.007 [main] Log - Finished test: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:13.007 [main] Log - TEST PASSED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:13.402 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:13.403 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:32:19.982 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:32:23.266 [main] Log - shouldHandleInvalidLocation started.
+[INFO ] 2026-06-25 15:32:23.273 [main] Log - Searching invalid query: ksaldfbwsdjhfbwef
+[INFO ] 2026-06-25 15:32:25.375 [main] Log - Invalid search handled successfully: ksaldfbwsdjhfbwef
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[///gg345.g22g.gg, ///gg.gg.gg](1)" classname="tests.EndToEndTest" time="6.677">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:32:25.376 [main] Log - shouldHandleInvalidLocation passed.
+[INFO ] 2026-06-25 15:32:25.377 [main] Log - Finished test: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:25.377 [main] Log - TEST PASSED: shouldHandleInvalidLocation
+[INFO ] 2026-06-25 15:32:26.101 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:26.106 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:32:32.664 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:32:34.607 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:32:34.613 [main] Log - Recovery flow [///gg345.g22g.gg] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:32:41.283 [main] Log - Recovery successful [///gg345.g22g.gg] -> [///gg.gg.gg]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[///gg345.g22g.gg, ///become.outlooks.rising](2)" classname="tests.EndToEndTest" time="5.681">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:32:41.284 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:32:41.285 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:32:41.285 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:32:42.025 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:42.026 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:32:48.552 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:32:51.815 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:32:51.820 [main] Log - Recovery flow [///gg345.g22g.gg] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:32:57.496 [main] Log - Recovery successful [///gg345.g22g.gg] -> [///become.outlooks.rising]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[///gg345.g22g.gg, Ho Chi Minh City](3)" classname="tests.EndToEndTest" time="5.744">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:32:57.497 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:32:57.497 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:32:57.497 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:32:57.865 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:32:57.866 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:33:04.274 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:33:07.663 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:33:07.667 [main] Log - Recovery flow [///gg345.g22g.gg] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:33:13.406 [main] Log - Recovery successful [///gg345.g22g.gg] -> [Ho Chi Minh City]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[///viết chữ.âm nhạc.an nhàn, ///gg.gg.gg](4)" classname="tests.EndToEndTest" time="6.38">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:33:13.407 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:33:13.407 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:13.408 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:14.063 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:33:14.065 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:33:20.421 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:33:22.887 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:33:22.892 [main] Log - Recovery flow [///viết chữ.âm nhạc.an nhàn] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:33:29.266 [main] Log - Recovery successful [///viết chữ.âm nhạc.an nhàn] -> [///gg.gg.gg]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[///viết chữ.âm nhạc.an nhàn, ///become.outlooks.rising](5)" classname="tests.EndToEndTest" time="6.734">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:33:29.267 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:33:29.268 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:29.268 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:29.664 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:33:29.666 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:33:36.319 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:33:38.381 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:33:38.386 [main] Log - Recovery flow [///viết chữ.âm nhạc.an nhàn] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:33:45.114 [main] Log - Recovery successful [///viết chữ.âm nhạc.an nhàn] -> [///become.outlooks.rising]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[///viết chữ.âm nhạc.an nhàn, Ho Chi Minh City](6)" classname="tests.EndToEndTest" time="7.402">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:33:45.116 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:33:45.117 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:45.117 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:33:45.463 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:33:45.464 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:33:51.767 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:33:53.827 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:33:53.831 [main] Log - Recovery flow [///viết chữ.âm nhạc.an nhàn] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:34:01.227 [main] Log - Recovery successful [///viết chữ.âm nhạc.an nhàn] -> [Ho Chi Minh City]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[ksaldfbwsdjhfbwef, ///gg.gg.gg](7)" classname="tests.EndToEndTest" time="6.221">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:34:01.229 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:34:01.230 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:01.230 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:01.563 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:34:01.564 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:34:07.995 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:34:11.384 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:34:11.392 [main] Log - Recovery flow [ksaldfbwsdjhfbwef] -> [///gg.gg.gg]
+[INFO ] 2026-06-25 15:34:17.604 [main] Log - Recovery successful [ksaldfbwsdjhfbwef] -> [///gg.gg.gg]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[ksaldfbwsdjhfbwef, ///become.outlooks.rising](8)" classname="tests.EndToEndTest" time="5.675">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:34:17.605 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:34:17.605 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:17.605 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:18.293 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:34:18.295 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:34:24.837 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:34:28.551 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:34:28.556 [main] Log - Recovery flow [ksaldfbwsdjhfbwef] -> [///become.outlooks.rising]
+[INFO ] 2026-06-25 15:34:34.226 [main] Log - Recovery successful [ksaldfbwsdjhfbwef] -> [///become.outlooks.rising]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldRecoverFromInvalidSearch[ksaldfbwsdjhfbwef, Ho Chi Minh City](9)" classname="tests.EndToEndTest" time="5.661">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:34:34.227 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:34:34.228 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:34.228 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:34.900 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:34:34.901 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:34:41.289 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:34:44.504 [main] Log - shouldRecoverFromInvalidSearch started.
+[INFO ] 2026-06-25 15:34:44.508 [main] Log - Recovery flow [ksaldfbwsdjhfbwef] -> [Ho Chi Minh City]
+[INFO ] 2026-06-25 15:34:50.163 [main] Log - Recovery successful [ksaldfbwsdjhfbwef] -> [Ho Chi Minh City]
+]]></system-out>
+  </testcase>
+  <testcase name="shouldSearchMultipleLocationsSequentially[Ho Chi Minh City, ///become.outlooks.rising, ///gg.gg.gg](1)" classname="tests.EndToEndTest" time="11.653">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:34:50.164 [main] Log - shouldRecoverFromInvalidSearch passed.
+[INFO ] 2026-06-25 15:34:50.165 [main] Log - Finished test: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:50.165 [main] Log - TEST PASSED: shouldRecoverFromInvalidSearch
+[INFO ] 2026-06-25 15:34:50.838 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:34:50.840 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:34:57.544 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:34:59.516 [main] Log - shouldSearchMultipleLocationsSequentially started.
+]]></system-out>
+  </testcase>
+  <testcase name="shouldSearchValidLocation[///gg.gg.gg](1)" classname="tests.EndToEndTest" time="4.117">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:35:11.169 [main] Log - shouldSearchMultipleLocationsSequentially passed.
+[INFO ] 2026-06-25 15:35:11.171 [main] Log - Finished test: shouldSearchMultipleLocationsSequentially
+[INFO ] 2026-06-25 15:35:11.171 [main] Log - TEST PASSED: shouldSearchMultipleLocationsSequentially
+[INFO ] 2026-06-25 15:35:11.591 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:35:11.593 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:35:18.019 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:35:20.244 [main] Log - shouldSearchValidLocation started.
+[INFO ] 2026-06-25 15:35:20.250 [main] Log - Searching valid query: ///gg.gg.gg
+[INFO ] 2026-06-25 15:35:24.361 [main] Log - Search successful: ///gg.gg.gg
+]]></system-out>
+  </testcase>
+  <testcase name="shouldSearchValidLocation[///become.outlooks.rising](2)" classname="tests.EndToEndTest" time="2.788">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:35:24.362 [main] Log - shouldSearchValidLocation passed.
+[INFO ] 2026-06-25 15:35:24.362 [main] Log - Finished test: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:24.363 [main] Log - TEST PASSED: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:24.794 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:35:24.795 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:35:31.138 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:35:34.451 [main] Log - shouldSearchValidLocation started.
+[INFO ] 2026-06-25 15:35:34.456 [main] Log - Searching valid query: ///become.outlooks.rising
+[INFO ] 2026-06-25 15:35:37.239 [main] Log - Search successful: ///become.outlooks.rising
+]]></system-out>
+  </testcase>
+  <testcase name="shouldSearchValidLocation[Ho Chi Minh City](3)" classname="tests.EndToEndTest" time="4.085">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:35:37.240 [main] Log - shouldSearchValidLocation passed.
+[INFO ] 2026-06-25 15:35:37.241 [main] Log - Finished test: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:37.241 [main] Log - TEST PASSED: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:37.968 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:35:37.970 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:35:44.342 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:35:46.214 [main] Log - shouldSearchValidLocation started.
+[INFO ] 2026-06-25 15:35:46.219 [main] Log - Searching valid query: Ho Chi Minh City
+[INFO ] 2026-06-25 15:35:50.297 [main] Log - Search successful: Ho Chi Minh City
+]]></system-out>
+  </testcase>
+  <testcase name="shouldShareCorrectSearchResult" classname="tests.EndToEndTest" time="6.309">
+    <system-out><![CDATA[[INFO ] 2026-06-25 15:35:50.298 [main] Log - shouldSearchValidLocation passed.
+[INFO ] 2026-06-25 15:35:50.299 [main] Log - Finished test: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:50.299 [main] Log - TEST PASSED: shouldSearchValidLocation
+[INFO ] 2026-06-25 15:35:50.691 [main] Log - ========== TEST END ==========
+[INFO ] 2026-06-25 15:35:50.692 [main] Log - ========== TEST START ==========
+[INFO ] 2026-06-25 15:35:57.210 [main] Log - Driver initialized successfully
+[INFO ] 2026-06-25 15:35:59.783 [main] Log - shouldShareCorrectSearchResult started.
+]]></system-out>
+  </testcase>
+</testsuite>
