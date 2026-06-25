@@ -352,7 +352,7 @@ The test design includes:
 Test cases are maintained in Jira:
 
 ```text
-https://nguyenluonghoangvu1999.atlassian.net/jira/software/c/projects/WT/summary?atlOrigin=eyJpIjoiODAyMDRlYWQ5NDFlNDM2MzhiMWNmZjVmOGNjNTJmOTMiLCJwIjoiaiJ9
+https://nguyenluonghoangvu1999.atlassian.net/?continue=https%3A%2F%2Fnguyenluonghoangvu1999.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10003&atlOrigin=eyJpIjoiOTAwOTMwYTUwMTc0NGNiNmEwOWFlODU1ZmE4MTM2MmQiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
 ```
 
 ```text
