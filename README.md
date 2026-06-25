@@ -347,6 +347,10 @@ The test design includes:
 * Permission handling scenarios
 * Deep-link validation scenarios
 
+Test cases link: [atm-exporter.xlsx](https://github.com/user-attachments/files/29343060/atm-exporter.xlsx)
+Can check it in Jira Board also in Zephyrs
+
+
 ### Jira and Confluence Reference
 
 Test cases are maintained in Jira:
