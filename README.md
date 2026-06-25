@@ -347,12 +347,25 @@ The test design includes:
 * Permission handling scenarios
 * Deep-link validation scenarios
 
-### Jira Reference
+### Jira and Confluence Reference
 
 Test cases are maintained in Jira:
 
 ```text
 https://nguyenluonghoangvu1999.atlassian.net/jira/software/c/projects/WT/summary?atlOrigin=eyJpIjoiODAyMDRlYWQ5NDFlNDM2MzhiMWNmZjVmOGNjNTJmOTMiLCJwIjoiaiJ9
+```
+
+```text
+[https://nguyenluonghoangvu1999.atlassian.net/jira/software/c/projects/WT/summary?atlOrigin=eyJpIjoiODAyMDRlYWQ5NDFlNDM2MzhiMWNmZjVmOGNjNTJmOTMiLCJwIjoiaiJ9](https://nguyenluonghoangvu1999.atlassian.net/wiki/spaces/TE/pages/983041/Search+Feature+Test+Scenarios?atlOrigin=eyJpIjoiYmFiYWNkZTcwZTBlNDljZThmOTdiZjY0MzRhMzE4YjIiLCJwIjoiaiJ9)
+```
+```text
+https://nguyenluonghoangvu1999.atlassian.net/wiki/spaces/TE/pages/426167/BUSINESS+RESEARCH+DOCUMENT+RESEARCH+BRD?atlOrigin=eyJpIjoiNDk3YzlhNWNhNzU0NDU1MWI3ZjJkYjE3MzJmYWE1YmQiLCJwIjoiaiJ9
+```
+```text
+https://nguyenluonghoangvu1999.atlassian.net/wiki/spaces/TE/pages/426148/Technical+Test+Mobile+Automation+Engineer?atlOrigin=eyJpIjoiNzA1OTg5N2U2ZWY5NDA2M2FlNGI0NzkwYjIyMjBjZmEiLCJwIjoiaiJ9
+```
+```text
+https://nguyenluonghoangvu1999.atlassian.net/wiki/spaces/TE/pages/1015814/Share+Feature+Test+Scenarios?atlOrigin=eyJpIjoiMjljNWIwMzBjMmNkNDFkZDkwMTdkMzJhNGE5ZDNjZGYiLCJwIjoiaiJ9
 ```
 
 The Jira project contains:
